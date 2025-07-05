@@ -1,71 +1,65 @@
-👋 Hi, I’m Shashank Gupta (GitHub: Shas1234-cyber).
+# 💻 CodSoft Python Internship Projects
 
-This repository contains the projects I completed as part of the CodSoft Python Internship. Each project demonstrates practical Python applications with a focus on building simple, interactive, and user-friendly programs.
+👋 Hi, I’m **Shashank Gupta** (GitHub: [Shas1234-cyber](https://github.com/Shas1234-cyber)).
 
-📂 Projects Included
-📞 Contact Book
-File: ContactBook.py
+This repository contains the projects I completed as part of the **CodSoft Python Internship**. Each project demonstrates practical Python applications with a focus on building simple, interactive, and user-friendly programs.
 
-Description:
-A simple Python-based contact management system where users can:
+---
 
-Add new contacts
+## 📂 Projects Included
 
-View saved contacts
+### 1. 📞 Contact Book
+**File:** `ContactBook.py`  
+**Description:**  
+A simple Python-based **contact management system** where users can:  
+1. Add new contacts  
+2. View saved contacts  
+3. Search contacts by name or phone  
+4. Update contact details  
+5. Delete contacts  
 
-Search contacts by name or phone
+This project helps users efficiently manage their personal or professional contact list.
 
-Update contact details
+---
 
-Delete contacts
-It helps users efficiently manage their personal or professional contact list.
+### 2. 🧮 Calculator
+**File:** `calculator.py`  
+**Description:**  
+A basic **console calculator** that can perform:  
+1. Addition  
+2. Subtraction  
+3. Multiplication  
+4. Division  
+5. Power  
+6. Modulus  
 
-🧮 Calculator
-File: calculator.py
-
-Description:
-A basic console calculator that can perform:
-
-Addition
-
-Subtraction
-
-Multiplication
-
-Division
-
-Power
-
-Modulus
 It provides a smooth, user-friendly console interface for quick mathematical calculations.
 
-✊✋✌️ Rock Paper Scissors Game
-File: rockpaperscissorsgame.py
+---
 
-Description:
-A classic Rock-Paper-Scissors game where:
+### 3. ✊✋✌️ Rock Paper Scissors Game
+**File:** `rockpaperscissorsgame.py`  
+**Description:**  
+A classic **Rock-Paper-Scissors game** where:  
+1. The user competes against the computer.  
+2. The computer’s choice is randomly generated.  
+3. The game tracks the score across multiple rounds.  
+4. It provides instant feedback on wins, losses, and draws.
 
-The user competes against the computer.
+---
 
-The computer’s choice is randomly generated.
+### 4. ✅ To-Do List Application
+**File:** `todolist.py`  
+**Description:**  
+A simple **console-based to-do list manager** that allows users to:  
+1. Add tasks  
+2. View all tasks  
+3. Mark tasks as done  
+4. Delete completed tasks  
 
-The game tracks the score across multiple rounds and provides real-time feedback on wins, losses, and draws.
-
-✅ To-Do List Application
-File: todolist.py
-
-Description:
-A simple console-based to-do list manager that allows users to:
-
-Add tasks
-
-View all tasks
-
-Mark tasks as done
-
-Delete completed tasks
 This application helps users stay organized and keep track of their daily activities.
 
-🙏 Acknowledgement
-A big thanks to CodSoft for offering this valuable internship opportunity, which helped me sharpen my Python skills through practical, hands-on projects.
+---
 
+## 🙏 Acknowledgement
+A big thanks to **CodSoft** for providing this internship opportunity to enhance my Python skills through practical, hands-on projects.
