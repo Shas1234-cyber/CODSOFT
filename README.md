@@ -61,5 +61,17 @@ This application helps users stay organized and keep track of their daily activi
 
 ---
 
+### 5. 🔒 Password Generator
+**File:** `password_generator.py`  
+**Description:**  
+A **secure password generator** that allows users to:  
+1. Select password length  
+2. Choose password strength (weak, medium, strong)  
+3. Instantly generate a random password  
+
+It provides a simple, fast way to create strong passwords for enhanced security.
+
+---
+
 ## 🙏 Acknowledgement
 A big thanks to **CodSoft** for providing this internship opportunity to enhance my Python skills through practical, hands-on projects.
