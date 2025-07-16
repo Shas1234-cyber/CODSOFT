@@ -8,70 +8,76 @@ This repository contains the projects I completed as part of the **CodSoft Pytho
 
 ## 📂 Projects Included
 
-### 1. 📞 Contact Book
-**File:** `ContactBook.py`  
-**Description:**  
-A simple Python-based **contact management system** where users can:  
-1. Add new contacts  
-2. View saved contacts  
-3. Search contacts by name or phone  
-4. Update contact details  
-5. Delete contacts  
-
-This project helps users efficiently manage their personal or professional contact list.
-
----
-
-### 2. 🧮 Calculator
-**File:** `calculator.py`  
-**Description:**  
-A basic **console calculator** that can perform:  
-1. Addition  
-2. Subtraction  
-3. Multiplication  
-4. Division  
-5. Power  
-6. Modulus  
-
-It provides a smooth, user-friendly console interface for quick mathematical calculations.
-
----
-
-### 3. ✊✋✌️ Rock Paper Scissors Game
-**File:** `rockpaperscissorsgame.py`  
-**Description:**  
-A classic **Rock-Paper-Scissors game** where:  
-1. The user competes against the computer.  
-2. The computer’s choice is randomly generated.  
-3. The game tracks the score across multiple rounds.  
-4. It provides instant feedback on wins, losses, and draws.
-
----
-
-### 4. ✅ To-Do List Application
+## ✅ Task 1: To-Do List Application
 **File:** `todolist.py`  
 **Description:**  
-A simple **console-based to-do list manager** that allows users to:  
-1. Add tasks  
-2. View all tasks  
-3. Mark tasks as done  
-4. Delete completed tasks  
+A simple console-based to-do list manager that allows users to:
 
-This application helps users stay organized and keep track of their daily activities.
+- Add tasks  
+- View all tasks  
+- Mark tasks as done  
+- Delete completed tasks  
+
+> 🎯 Helps users stay organized and keep track of their daily activities.
 
 ---
 
-### 5. 🔒 Password Generator
+### ✅ Task 2: Calculator
+**File:** `calculator.py`  
+**Description:**  
+A basic console calculator that can perform:
+
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
+- Power  
+- Modulus  
+
+> 🧠 Provides a smooth, user-friendly console interface for quick mathematical calculations.
+
+---
+
+### ✅ Task 3: Password Generator
 **File:** `password_generator.py`  
 **Description:**  
-A **secure password generator** that allows users to:  
-1. Select password length  
-2. Choose password strength (weak, medium, strong)  
-3. Instantly generate a random password  
+A secure password generator that allows users to:
 
-It provides a simple, fast way to create strong passwords for enhanced security.
+- Select password length  
+- Choose password strength (weak, medium, strong)  
+- Instantly generate a random password  
+
+> 🔐 Provides a simple, fast way to create strong passwords for enhanced security.
 
 ---
 
-## 🙏 Acknowledgement
+### ✅ Task 4: Rock Paper Scissors Game
+**File:** `rockpaperscissorsgame.py`  
+**Description:**  
+A classic Rock-Paper-Scissors game where:
+
+- The user competes against the computer  
+- The computer’s choice is randomly generated  
+- The game tracks the score across multiple rounds  
+
+> 🎮 Instant feedback on wins, losses, and draws.
+
+---
+
+### ✅ Task 5: Contact Book
+**File:** `ContactBook.py`  
+**Description:**  
+A simple Python-based contact management system where users can:
+
+- Add new contacts  
+- View saved contacts  
+- Search contacts by name or phone  
+- Update contact details  
+- Delete contacts  
+
+> 📞 Helps users efficiently manage their personal or professional contact list.
+
+---
+
+### 🙏 Acknowledgement
 A big thanks to **CodSoft** for providing this internship opportunity to enhance my Python skills through practical, hands-on projects.
